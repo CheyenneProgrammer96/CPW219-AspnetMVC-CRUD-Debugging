@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CPW219_AspnetMVC_CRUD_Debugging.Migrations
 {
     [DbContext(typeof(ProductContext))]
-    [Migration("20230217063818_Initial")]
+    [Migration("20230217081447_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
