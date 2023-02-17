@@ -1,4 +1,4 @@
-using CPW219_AspnetMVC_CRUD_Debugging.Models;
+using CPW219_AspnetMVC_CRUD_Debugging.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
